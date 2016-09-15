@@ -1,0 +1,15 @@
+{
+    "name": "andy/apns",
+    "require-dev": {
+        "zendframework/zendservice-apple-apns": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Andy Theuninck",
+            "email": "andy@gohanman.com"
+        }
+    ],
+    "require": {
+        "zendframework/zendservice-google-gcm": "^1.0"
+    }
+}
